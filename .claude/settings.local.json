@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(python -c \":*)",
-      "mcp__Claude_Preview__preview_start"
+      "mcp__Claude_Preview__preview_start",
+      "mcp__19a7bb3e-fd25-4893-9582-b61a80080aa1__apply_migration"
     ]
   }
 }
